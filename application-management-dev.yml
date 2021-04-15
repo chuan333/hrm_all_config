@@ -11,3 +11,4 @@ spring:
 mybatis-plus:
   mapper-locations: classpath:com/lbc/hrm/mapper/*Mapper.xml
   type-aliases-package: com.lbc.hrm.domain,com.lbc.hrm.query
+  
